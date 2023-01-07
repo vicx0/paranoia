@@ -3,6 +3,6 @@
 
                             <  Update Log  >
        
-                   [+] All in mine github..
+                   [+] Last update in 00:29 xd
                    [+]
                    [+]
