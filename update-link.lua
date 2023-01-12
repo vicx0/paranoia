@@ -1,1 +1,1 @@
-https://cdn.discordapp.com/attachments/1061197507985670274/1061424282913230848/PARANOIA.plua
+https://cdn.discordapp.com/attachments/1061379637252460654/1063159141125869589/PARANOIA.plua
