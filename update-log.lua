@@ -2,14 +2,11 @@
 
 
                             <  Update Log  >
-                                  V1.11
-               [/] Global remake Antiaim
-               [/] Remade Visuals
-               [/] Remaked Fakelag modes and its better now!
-               [+] Added Watermark Themes (Blue, Red, Green, Yellow)
-               [+] Added Watermark mode: Classic + RGB line!
-               [+] Added Indicators Themes (Blue, Red, Green, Yellow)
-               [+] Added More antiaims Presets to use!
+                                  V1.12
+               [+] Added Menu management !
+               [+] Added more watermark options / also for indicators
+               [+] Recoded some functions!
+               [-] deleted modern indicator & watermark
                    -- THIS VERSION ISN'T RELEASED YET --
                            IF YOU AREN'T USING
                                    LOADER
